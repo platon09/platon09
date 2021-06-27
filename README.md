@@ -22,4 +22,4 @@
 [instagram]: https://www.instagram.com/_platon.09_/
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![platon09's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=platon09)](https://github.com/platon09/github-readme-stats)
