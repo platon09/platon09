@@ -4,10 +4,9 @@
 
 ## I'm a Python BackEnd Developer, and Teacher
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
+- 🥊 I love MMA
 - 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
-- 🤹🏽 I like to shoot videos for youtube 
+- ⚡ I love writing an article for https://t.me/it_bilimkz
 
 ### Connect with me:
 
