@@ -20,6 +20,3 @@
 [youtube]: https://www.youtube.com/ITBilim
 [linkedin]: https://www.linkedin.com/in/muratkhan-m/
 [instagram]: https://www.instagram.com/_platon.09_/
-
-
-[![platon09's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=platon09)](https://github.com/platon09/github-readme-stats)
