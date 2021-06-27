@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Vlad
+### Hi there 👋, I'm Muqammed Ali
 
 ![](https://komarev.com/ghpvc/?username=platon09)
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a Python BackEnd Developer, and Teacher
 - 💪 I like to write code
 - 🎉 I love to paint and play the guitar
 - 🥅 I am constantly learning new things
