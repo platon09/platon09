@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=platon09)
 
-## I'm a Python/Django BackEnd Developer, and Teacher
+## I'm a Python/Django Back-End Developer, and Teacher
 - 💪 I like to write code
 - 🥊 I love MMA
 - 🥅 I am constantly learning new things
