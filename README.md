@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Muqammed Ali
+### Hi there 👋, I'm Mukhammed Ali
 
 ![](https://komarev.com/ghpvc/?username=platon09)
 
