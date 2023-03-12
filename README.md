@@ -7,7 +7,7 @@ A software engineer with 2 years of software development experience. Have experi
 bots, desktop apps. At the moment, I am extremely motivated to constantly develop my skills and professional growth. And I
 am looking for good opportunities to gain good experience and realize my potential.
 - 💪 I like to write code
-- 🥊 I love MMA
+- 🥊 I love MMA, Workout
 - 🥅 I am constantly learning new things
 - ⚡ I love writing an article and shoot videos for https://t.me/it_bilimkz and https://www.youtube.com/ITBilim
 
