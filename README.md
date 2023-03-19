@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=platon09)
 
-## I'm a Python Back-End Software Engineer, and Teacher
+## I'm a Python Back-end Software Engineer, and Teacher
 A software engineer with 2 years of software development experience. Have experience in development of back-end and
 bots, desktop apps. At the moment, I am extremely motivated to constantly develop my skills and professional growth. And I
 am looking for good opportunities to gain good experience and realize my potential.
